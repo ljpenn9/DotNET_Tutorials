@@ -1,0 +1,14 @@
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/bin/Release/net8.0/DotNetDebugging
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.deps.json
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.runtimeconfig.json
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.dll
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.pdb
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.AssemblyInfo.cs
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.dll
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/refint/DotNetDebugging.dll
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.pdb
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.genruntimeconfig.cache
+/Users/laneypennington/Documents/DotNET_Tutorials/DotNetDebugging/obj/Release/net8.0/ref/DotNetDebugging.dll
